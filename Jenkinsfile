@@ -3,7 +3,7 @@ pipeline{
 
     environment {
         VENV_DIR = 'venv'
-        GCP_PROJECT = "learn-mlops"
+        GCP_PROJECT = "learn-mlops-464209"
         GCLOUD_PATH = "/var/jenkins_home/google-cloud-sdk/bin"
     }
 
